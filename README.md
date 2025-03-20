@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Lokesh!  
 
-🚀 **Tech Enthusiast | Cloud & DevOps Engineer | Full-Stack Developer | AI Explorer**  
+🚀 **Tech Enthusiast | Problem Solver | Cloud & DevOps Engineer | Full-Stack Developer | AI Explorer**  
 
-I'm a **Master’s student in Computer Science** with **3+ years of experience in Cloud & DevOps** and a passion for **building scalable solutions**. I love exploring cutting-edge technologies and developing tools for **small businesses and startups**.  
+I'm a **Master’s student in Computer Science** with a passion for **learning, building, and experimenting** across different tech domains. From **cloud & DevOps** to **full-stack development and AI**, I enjoy tackling **challenging problems** and creating impactful solutions. I love exploring cutting-edge technologies.
 
 ---
 
