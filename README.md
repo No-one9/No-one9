@@ -15,7 +15,8 @@ I'm a **Master’s student in Computer Science** with a passion for **learning, 
 ---
 
 ## 🔥 What I’m Working On  
-🔹 **PDFQuery** – A generative AI chat bot whiich answers questions based on the pdf files you upload.
+🔹 **PDFQuery** – A generative AI chat bot which answers questions based on the pdf files you upload.
+
 🔹 **Job Search Tool** – Focused on **entry-level & new grad** positions  
 
 ---
