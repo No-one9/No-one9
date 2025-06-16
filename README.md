@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Lokesh!
+# 👋 Hey, I’m Lokesh Cherukuri!
 
 🚀 **Cloud & DevOps Engineer** | Full-Stack Developer | AI Explorer | Tech Generalist  
 🎓 Master’s in Computer Science | Builder | Lifelong Learner  
