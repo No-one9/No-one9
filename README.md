@@ -1,26 +1,27 @@
-# 👋 Hey, I'm Lokesh!  
+# 👋 Hey, I’m Lokesh!
 
-🚀 **Tech Enthusiast | Problem Solver | Cloud & DevOps Engineer | Full-Stack Developer | AI Explorer**  
+🚀 **Cloud & DevOps Engineer** | Full-Stack Developer | AI Explorer | Tech Generalist  
+🎓 Master’s in Computer Science | Builder | Lifelong Learner  
 
-I'm a **Master’s student in Computer Science** with a passion for **learning, building, and experimenting** across different tech domains. From **cloud & DevOps** to **full-stack development and AI**, I enjoy tackling **challenging problems** and creating impactful solutions. I love exploring cutting-edge technologies.
-
----
-
-## 🚀 What I Do  
-- ☁️ **Cloud & DevOps** – AWS, GCP (exploring), Terraform, Kubernetes, CI/CD  
-- 🖥 **Full-Stack Development** – MEAN Stack, JavaScript, HTML/CSS  
-- 🤖 **AI & Machine Learning** – Exploring AI-driven solutions 
-- 🎯 **FAANG Prep** – Practicing **LeetCode**, System Design, and DSA  
+I’m passionate about solving real-world problems at the intersection of **infrastructure, software engineering**, and **AI**. I love creating scalable systems, automating developer workflows, and building clean user experiences — all while staying curious about the latest tech trends.
 
 ---
 
-## 🔥 What I’m Working On  
-🔹 **PDFQuery** – A generative AI chat bot which answers questions based on the pdf files you upload.
+## 🚀 What I Do
 
-🔹 **Job Search Tool** – Focused on **entry-level & new grad** positions  
+- ☁️ **Cloud & DevOps:** AWS (Proficient), GCP (Exploring), Terraform, Kubernetes, CI/CD, Monitoring  
+- 💻 **Full-Stack Development:** MEAN Stack (MongoDB, Express, Angular, Node.js), HTML/CSS, JavaScript  
+- 🤖 **AI/ML Experiments:** Integrating generative AI into real-world applications  
+
 
 ---
 
+## 🔧 Projects I’m Building
+
+- 🔹 **PDFQuery:** An AI-powered chatbot that answers questions from your uploaded PDF files using vector search  
+- 🔹 **Job Search Tool:** Smart tool to discover and rank entry-level & new-grad jobs with resume matching
+
+---
 ---
 
 ## 🎯 Let's Connect!  
@@ -31,4 +32,4 @@ I'm a **Master’s student in Computer Science** with a passion for **learning, 
 ---
 
 ## ⚡ Fun Fact  
-I love **hitting the gym**, and my favorite book is *The Immortals of Meluha*! 🏋️📖  
+I love **hitting the gym**, and my all time favorite book is *The Immortals of Meluha*! 🏋️📖  
