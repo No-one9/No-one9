@@ -10,7 +10,7 @@ I’m passionate about solving real-world problems at the intersection of **infr
 ## 🚀 What I Do
 
 - ☁️ **Cloud & DevOps:** AWS (Proficient), GCP (Exploring), Terraform, Kubernetes, CI/CD, Monitoring  
-- 💻 **Full-Stack Development:** MEAN Stack (MongoDB, Express, Angular, Node.js), HTML/CSS, JavaScript  
+
 - 🤖 **AI/ML Experiments:** Integrating generative AI into real-world applications  
 
 
@@ -28,7 +28,6 @@ I’m passionate about solving real-world problems at the intersection of **infr
 - 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-ch/)  
 - 🌐 [Portfolio](https://narasingalokeshcherukuri.github.io/)  
 - 📫 Reach me at **nlokesh.cherukuri@gmail.com**  
-
 ---
 
 ## ⚡ Fun Fact  
