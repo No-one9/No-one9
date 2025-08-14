@@ -25,8 +25,7 @@ I’m passionate about solving real-world problems at the intersection of **infr
 ---
 
 ## 🎯 Let's Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-ch/)  
-- 🌐 [Portfolio](https://narasingalokeshcherukuri.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-ch/)    
 - 📫 Reach me at **nlokesh.cherukuri@gmail.com**  
 ---
 
