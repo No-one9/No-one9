@@ -23,11 +23,5 @@ I’m passionate about solving real-world problems at the intersection of **infr
 
 ---
 ---
-
-## 🎯 Let's Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-ch/)    
-- 📫 Reach me at **narasingalokeshcherukuri@gmail.com**  
----
-
 ## ⚡ Fun Fact  
 I love **hitting the gym**, and my all time favorite book is *The Immortals of Meluha*! 🏋️📖  
