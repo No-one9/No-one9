@@ -9,7 +9,7 @@ I’m passionate about solving real-world problems at the intersection of **infr
 
 ## 🚀 What I Do
 
-- ☁️ **Cloud & DevOps:** AWS (Proficient), GCP (Exploring), Terraform, Kubernetes, CI/CD, Monitoring  
+- ☁️ **Cloud & DevOps:** AWS (Proficient), GCP, Infrastructure as Code, Kubernetes, CI/CD, Monitoring  
 
 - 🤖 **AI/ML Experiments:** Integrating generative AI into real-world applications  
 
